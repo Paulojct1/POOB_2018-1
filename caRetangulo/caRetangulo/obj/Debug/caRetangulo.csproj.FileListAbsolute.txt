@@ -1,0 +1,7 @@
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe.config
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\bin\Debug\caRetangulo.pdb
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\obj\Debug\caRetangulo.exe
+C:\Users\Paulo\Documents\POOB\caRetangulo\caRetangulo\obj\Debug\caRetangulo.pdb
