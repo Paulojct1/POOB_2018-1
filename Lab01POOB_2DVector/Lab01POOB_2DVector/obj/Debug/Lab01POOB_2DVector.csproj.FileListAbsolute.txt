@@ -1,0 +1,7 @@
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\bin\Debug\Lab01POOB_2DVector.exe.config
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\bin\Debug\Lab01POOB_2DVector.exe
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\bin\Debug\Lab01POOB_2DVector.pdb
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\obj\Debug\Lab01POOB_2DVector.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\obj\Debug\Lab01POOB_2DVector.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\obj\Debug\Lab01POOB_2DVector.exe
+C:\Users\Paulo\Documents\POOB\Lab01POOB_2DVector\Lab01POOB_2DVector\obj\Debug\Lab01POOB_2DVector.pdb
