@@ -1,0 +1,9 @@
+
+     *Construtores:
+
+     São métodos de uma classe, usadas para criar objetos com n atributos já inicializados com valores de interesse
+   para a aplicação. Eles recebem o nome de classe!
+
+     *Aridade:
+
+     Quantidade de parâmetros de entrada.

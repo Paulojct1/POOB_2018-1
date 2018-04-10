@@ -1,0 +1,5 @@
+
+     Herança
+
+     Uma propriedade de POO, onde uma classe pode "herdar" métodos e atributos de outra classe.
+   Isto é muito útil para economia de software e debugging
