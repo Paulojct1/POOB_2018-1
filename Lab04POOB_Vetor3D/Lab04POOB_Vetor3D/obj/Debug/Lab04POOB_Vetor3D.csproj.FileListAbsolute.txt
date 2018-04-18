@@ -1,0 +1,10 @@
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.Form1.resources
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.Properties.Resources.resources
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.csproj.GenerateResource.cache
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\bin\Debug\Lab04POOB_Vetor3D.exe.config
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\bin\Debug\Lab04POOB_Vetor3D.exe
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\bin\Debug\Lab04POOB_Vetor3D.pdb
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.exe
+C:\Users\Paulo\Documents\POOB\Lab04POOB_Vetor3D\Lab04POOB_Vetor3D\obj\Debug\Lab04POOB_Vetor3D.pdb
