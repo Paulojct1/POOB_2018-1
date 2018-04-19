@@ -1,0 +1,10 @@
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\bin\Debug\Lab03POOB_CadastroAluno.exe.config
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\bin\Debug\Lab03POOB_CadastroAluno.exe
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\bin\Debug\Lab03POOB_CadastroAluno.pdb
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.Properties.Resources.resources
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.csproj.GenerateResource.cache
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.csproj.CoreCompileInputs.cache
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.exe
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno.pdb
+C:\Users\Paulo José\Documents\POOB\Lab03POOB_CadastroAluno\Lab03POOB_CadastroAluno\obj\Debug\Lab03POOB_CadastroAluno1.cadastro.resources
